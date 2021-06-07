@@ -1,5 +1,7 @@
 # Hola 👋 Mi nombre es Cristian Alderete
-### Actualtualmente desarrollando aplicaciones desktop en entorno .NET
+### Soy programador junior, me capacite mediante cursos en la UTN y de forma autodidacta, con muchas ganas de  aprender y poner en práctica mis conocimientos.
+Actualmente  desarrollo aplicaciones desktop en entorno .NET para configurar medidores inteligentes de energía eléctrica, pero también me interesa el desarrollo web  y sigo capacitándome para poder desarrollarme como Full Stack
+
 <!--
 **catastones/catastones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
