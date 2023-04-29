@@ -1,6 +1,6 @@
 # Hola 👋 Mi nombre es Cristian Alderete
-### Soy programador junior, me capacite mediante cursos en la UTN y de forma autodidacta, con muchas ganas de  aprender y poner en práctica mis conocimientos.
-Actualmente  desarrollo aplicaciones desktop en entorno .NET para configurar medidores inteligentes de energía eléctrica, pero también me interesa el desarrollo web  y sigo capacitándome para poder desarrollarme como Full Stack
+### Soy programador junior, me entrene en la Universidad Tecnólogica Nacional Argentina y de manera autodidacta, actualmente curso la carrera de Técnico Universitario en Programación en dicha casa de estudios. Tengo muchas ganas de seguir aprendiendo y poner en práctica mis conocimientos.
+Actualmente  desarrollo aplicaciones desktop en entorno .NET para configurar medidores inteligentes de energía eléctrica ; estoy también interesado en el desarrollo web  y sigo capacitándome para poder desarrollarme como Full Stack.
 
 <!--
 **catastones/catastones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
